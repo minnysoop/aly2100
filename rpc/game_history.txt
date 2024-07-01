@@ -1,0 +1,39 @@
+
+GAME HISTORY: 2023-06-18 23:39:34.835674
+-------------------------
+GAME #1
+PLAYER MOVE: rock
+COMPUTER MOVE: rock
+WINNER: DRAW
+-------------------------
+GAME #2
+PLAYER MOVE: paper
+COMPUTER MOVE: scissors
+WINNER: COMPUTER
+
+GAME HISTORY: 2023-06-18 23:39:43.355762
+-------------------------
+GAME #1
+PLAYER MOVE: paper
+COMPUTER MOVE: scissors
+WINNER: COMPUTER
+-------------------------
+GAME #2
+PLAYER MOVE: scissors
+COMPUTER MOVE: scissors
+WINNER: DRAW
+-------------------------
+GAME #3
+PLAYER MOVE: paper
+COMPUTER MOVE: scissors
+WINNER: COMPUTER
+-------------------------
+GAME #4
+PLAYER MOVE: paper
+COMPUTER MOVE: paper
+WINNER: DRAW
+-------------------------
+GAME #5
+PLAYER MOVE: rock
+COMPUTER MOVE: rock
+WINNER: DRAW
